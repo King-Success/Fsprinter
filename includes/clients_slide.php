@@ -112,8 +112,8 @@
     <!-- start brand section -->
     <div class="constructo-brand-section">
         <div class="container"><br>
-           <h2 class="text-center"><strong style="color: #e67817;">OUR CLIENTS</strong></h2>
-            <div class="row constructo-brand-slider text-center">
+           <h2 class="text-center client_slide"><strong style="color: #e67817;">OUR CLIENTS</strong></h2>
+            <div class="row constructo-brand-slider text-center clients_image">
                 <div class="col-sm-2">
                     <div class="brand-img"><img src="img/huawei.jpg" alt="theconstructo.com"></div>
                 </div>

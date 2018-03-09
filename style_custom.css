@@ -26,7 +26,7 @@
     font-size: 13px;
     color: #e67817;
     text-align: center;
-    line-height: 1; !important;
+    line-height: 1 ! important ;
 }
 .about-list ul li{
     
@@ -40,12 +40,495 @@ color:#e67817;
 color:#e67817;
 }
 .news-post-img img {
+    /* No style yet */
 }
 
 .brand-img img{
-height:100px; !important;
+height:100px;
 }
 
 .constructo-menu-area .navbar-right .active{
     color: #e67817;
+}
+
+@media (max-width: 1200px) {
+.welcome-text h1 {
+    color: #fff;
+    font-size: 55px;
+    font-weight: 700;
+    font-family:'Arvo', serif;
+    text-transform: uppercase;
+}
+
+.sliderthree .welcome-text h1 {
+    display: inline-block;
+}
+
+.welcome-text h1.titlecolor {
+    color: #e67817;
+    padding-bottom: 25px;
+}
+
+.welcome-text {
+    font-size: 16px;
+    color: #fff;
+    font-weight: 400
+}
+.reg_no{
+font-size:6px; 
+color:#e67817;
+
+}
+} 
+
+@media (max-width: 991px) {
+.welcome-text h1 {
+    color: #fff;
+    font-size: 38px;
+    font-weight: 700;
+    font-family:'Arvo', serif;
+    text-transform: uppercase;
+}
+.welcome-text p {
+    font-size: 20px;
+}
+.reg_no{
+font-size:6px; 
+color:#e67817;
+
+}
+} 
+
+@media (max-width: 676px) {
+.welcome-text h1 {
+    color: #fff;
+    font-size: 30px;
+    font-weight: 700;
+    font-family:'Arvo', serif;
+    text-transform: uppercase;
+}
+.reg_no{
+font-size:6px; 
+color:#e67817;
+
+}
+} 
+
+@media (max-width: 503px) {
+.welcome-text h1 {
+    color: #fff;
+    font-size: 27px;
+    font-weight: 700;
+    font-family:'Arvo', serif;
+    text-transform: uppercase;
+}
+.reg_no{
+font-size:6px; 
+color:#e67817;
+
+}
+} 
+
+@media (max-width: 456px) {
+.welcome-text h1 {
+    color: #fff;
+    font-size: 25px;
+    font-weight: 700;
+    font-family:'Arvo', serif;
+    text-transform: uppercase;
+}
+.reg_no{
+font-size:6px; 
+color:#e67817;
+
+}
+} 
+
+@media (max-width: 424px) {
+.welcome-text h1 {
+    color: #fff;
+    font-size: 20px;
+    font-weight: 700;
+    font-family:'Arvo', serif;
+    text-transform: uppercase;
+    text-align: center;
+    margin-top: -19px;
+}
+.reg_no{
+font-size:6px; 
+color:#e67817;
+
+}
+
+.welcome-text p {
+    font-size: 14px;
+    text-align: center;
+}
+
+.btn-start.borderw {
+    margin-right: 0px;
+    margin-left: 49px;
+}
+} 
+
+@media (max-width: 345px) {
+.welcome-text h1 {
+    color: #fff;
+    font-size: 15px;
+    font-weight: 700;
+    font-family:'Arvo', serif;
+    text-transform: uppercase;
+}
+.reg_no{
+font-size:6px; 
+color:#e67817;
+
+}
+} 
+
+@media (max-width: 269px) {
+.welcome-text {
+    padding-top: 0px !important;
+}
+.welcome-text h1 {
+    color: #fff;
+    font-size: 13px;
+    font-weight: 700;
+    font-family:'Arvo', serif;
+    text-transform: uppercase;
+    margin-top: 22px;
+    margin-bottom: -48px
+}
+
+.welcome-text p {
+    font-size: 10px;
+    text-align: center;
+    margin-top: 27px;
+}
+
+.btn-start.borderw {
+    margin-right: 0px;
+    margin-left: 25px;
+}
+
+.btn-start {
+    border-radius: 4px;
+    color: #fff;
+    display: inline-block;
+    font-size: 9px;
+    font-weight: 700;
+    height: 35px;
+    line-height: 37px;
+    text-align: center;
+    width: 75px;
+    -webkit-transition: .4s;
+    transition: .4s;
+    position: relative;
+    /* padding-bottom: 23px; */
+}
+.client_slide{
+    font-size: 15px;
+}
+
+.nav li a img{
+    width: 60px;
+}
+
+.client_slide{
+    font-size: 22px;
+}
+
+.brand-img img {
+    height: 85px;
+    width: 164px;
+}
+
+.constructo-footer-top {
+    background: #e67817;
+    color: #fff;
+    margin-top: 0px
+
+}  
+
+.section-padding {
+    padding-top: 34px;
+    padding-bottom: 24px;
+}
+
+.contat-usf {
+    background: #fff none repeat scroll 0 0;
+    border-radius: 3px;
+    color: #343434;
+    display: inline-block;
+    font-size: 9px;
+    font-weight: 700;
+    height: 35px;
+    line-height: 33px;
+    margin-right: 16px;
+    text-align: center;
+    width: 75px !important;
+}
+
+.learn-moref{
+    border: 1px solid #fff;
+    border-radius: 3px;
+    display: inline-block;
+    font-size: 9px;
+    font-weight: 700;
+    height: 35px;
+    line-height: 33px;
+    width: 75px !important;
+    -webkit-transition: .4s;
+    transition: .4s;
+    color: #fff;
+}
+
+.footer-text p{
+font-size: 10px;
+}
+
+.footer-link a{
+    font-size: 9px;
+}
+
+.constructo-copyright{
+    padding-top: 0px;
+    padding-bottom: 18px;
+}
+
+.reg_no{
+font-size:9px !important; 
+color:#e67817;
+
+}
+
+.client_slide{
+    font-size: 18px;
+}
+
+.brand-img img {
+    height: 55px;
+    margin-top: -60px;
+    width: 103px;
+}
+
+.scroll-top{
+    width: 30px;
+    height: 30px;
+}
+
+.scroll-top a{
+    font-size: 30px;
+    left: 0px;
+    top: -13px;
+}
+
+.nav li a img{
+    width: 45px;
+}
+.constructo-home-area{
+    height: 226px !important;
+}
+
+.main_title{
+    margin-top: -25px !important;
+}
+
+.container{
+    margin-bottom: -10px;
+}
+
+.container>.navbar-header{
+    margin-bottom: -17px;
+}
+
+.menu li a{
+    font-size: 10px;
+    line-height: 1px;
+}
+.slick-track{
+    /* margin-bottom: -85px; */
+    height: 247px;
+}
+
+.clients_image{
+    height: 130px;
+}
+
+.homeprev{
+    left: 8%;
+}
+
+.homenext{
+    right: 8%;
+}
+
+      
+}
+
+@media (max-width: 235px) {
+
+.welcome-text {
+    padding-top: 0px !important;
+}
+.welcome-text h1 {
+    color: #fff;
+    font-size: 10px;
+    font-weight: 700;
+    font-family:'Arvo', serif;
+    text-transform: uppercase;
+    margin-top: 22px;
+    margin-bottom: -48px
+}
+
+.welcome-text p {
+    font-size: 9px;
+    text-align: center;
+    margin-top: 27px;
+}
+
+.btn-start.borderw {
+    margin-right: 0px;
+    margin-left: 25px;
+}
+
+.btn-start {
+    border-radius: 4px;
+    color: #fff;
+    display: inline-block;
+    font-size: 7px;
+    font-weight: 700;
+    height: 27px;
+    line-height: 29px;
+    text-align: center;
+    width: 52px;
+    -webkit-transition: .4s;
+    transition: .4s;
+    position: relative;
+    /* margin-left: 43px; */
+    /* padding-bottom: 23px; */
+}
+.client_slide{
+    font-size: 15px;
+}
+
+.reg_no{
+font-size:7px !important; 
+color:#e67817;
+
+}
+
+.brand-img img {
+    height: 52px;
+    margin-top: -60px;
+    width: 100px;
+}
+
+.brand-img {
+    height: 90px;
+}
+
+.constructo-footer-top {
+    background: #e67817;
+    color: #fff;
+    margin-top: 0px
+
+}  
+
+.section-padding {
+    padding-top: 34px;
+    padding-bottom: 24px;
+}
+
+.contat-usf {
+    background: #fff none repeat scroll 0 0;
+    border-radius: 3px;
+    color: #343434;
+    display: inline-block;
+    font-size: 7px;
+    font-weight: 700;
+    height: 29px;
+    line-height: 33px;
+    margin-right: 16px;
+    text-align: center;
+    width: 51px !important;
+}
+
+.learn-moref{
+    border: 1px solid #fff;
+    border-radius: 3px;
+    display: inline-block;
+    font-size: 7px;
+    font-weight: 700;
+    height: 29px;
+    line-height: 33px;
+    width: 51px !important;
+    -webkit-transition: .4s;
+    transition: .4s;
+    color: #fff;
+}
+
+.footer-text p{
+font-size: 8px;
+}
+
+.footer-link a{
+    font-size: 7px;
+}
+
+.constructo-copyright{
+    padding-top: 0px;
+    padding-bottom: 18px;
+}
+
+.scroll-top{
+    width: 20px;
+    height: 20px;
+}
+
+.scroll-top a{
+    font-size: 13px;
+    left: 0px;
+    top: -16px;
+}
+
+.nav li a img{
+    width: 40px;
+}
+.constructo-home-area{
+    height: 226px !important;
+}
+
+.main_title{
+    margin-top: -25px !important;
+}
+
+.container{
+    margin-bottom: -10px;
+}
+
+.container>.navbar-header{
+    margin-bottom: -17px;
+}
+
+.menu li a{
+    font-size: 8px;
+    line-height: 0px;
+}
+.slick-track{
+    /* margin-bottom: -85px; */
+    height: 247px;
+}
+
+.clients_image{
+    height: 130px;
+}
+
+.homeprev{
+    left: 8%;
+}
+
+.homenext{
+    right: 8%;
+}
 }
