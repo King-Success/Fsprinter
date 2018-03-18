@@ -18,28 +18,6 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="single-slider sliderthree text-center">
-                            <div class="welcome-text">
-                                <h1>OUR</h1>
-                                <h1 class="titlecolor">SERVICES</h1>
-                                " We offer a wide range of services "
-                                <div class="welcome-btn">
-                                    <a href="services.php" class="btn-start rippler rippler-inverse borderw"><span>VIEW SERVICES</span></a>
-                                    <a href="contact.php" class="btn-start rippler rippler-inverse mr0 borderw"><span>LEAVE A MESSAGE</span></a>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="single-slider text-right">
-                            <div class="welcome-text">
-                                <h1>FREE</h1>
-                                <h1 class="titlecolor">CONSULTATION</h1>
-                            <p>" You can book a free consultation with us,where we can provide personalised advice for your project "
-                                <div class="welcome-btn">
-                                    <a href="http://www.googlemail.com/sprinterstechnologies@gmail.com" class="btn-start rippler rippler-inverse borderw"><span>SEND MAIL</span></a>
-                                    <a href="contact.php" class="btn-start rippler rippler-inverse mr0 borderw"><span>LEAVE MESSAGE</span></a>
-                                </div>
-                            </div>
-                        </div>
                     </div>
                 </div>
             </div>
