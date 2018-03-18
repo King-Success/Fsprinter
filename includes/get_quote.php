@@ -4,7 +4,7 @@
                 <div class="col-sm-12 text-center">
                     <div class="get-quate-content">
                         <h2><i>WE ARE PROFESSIONALS!</i></h2>
-                            <quote>" Our thoughtful team of knowledgeable professionals are here to take care of your every need,from inception to completion of your project "</quote>
+                            <quote>" Our thoughtful team of knowledgeable professionals are here to take care of your every need, from inception to completion of your project "</quote>
                     </div>
                 </div>
 <!--
