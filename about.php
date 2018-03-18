@@ -19,8 +19,8 @@
                         <div class="line">
                             <img src="img/line.png" alt="theconstructo.com">
                         </div>
-<p><strong>F.SPRINTERS TECHNOLOGIES LTD </strong>is a Limited Liability Company registered by the Corporate Affairs Commission in accordance with the laws of the Federal Republic of Nigeria with it shead office located in Lagos.
-We are into Electrical and Mechanical Services, ICT infrastructure supply, installation and maintenance, Telecommunications and  Security, Project Management, Consultancy and Training. We provide ICT engineering services to customers in emerging small,medium and largescale enterprise, Government, Oil and Gas, banking and Manufacturing companies.We do this in cost effective,reliable and efficient way.Our goal is to exceed the expectations of every client by creating value that will enhance high system functionality and operational efficiency.
+<p><strong>F.SPRINTERS TECHNOLOGIES LTD </strong>is a Limited Liability Company registered by the Corporate Affairs Commission in accordance with the laws of the Federal Republic of Nigeria with its head office located in Lagos.
+We are into Electrical and Mechanical Services, ICT infrastructure supply, installation and maintenance, Telecommunications and  Security, Project Management, Consultancy and Training.We provide ICT Engineering services to customers in emerging small, medium and largescale enterprise, Government, Oil and Gas, banking and Manufacturing companies.We do this in cost effective, reliable and efficient way.Our goal is to exceed the expectations of every client by creating value that will enhance high system functionality and operational efficiency.
 <strong>F.SPRINTERS TECHNOLOGIES LTD </strong>personnels are time tested professionals who combined their hands-on technical expertise and management experience to ensure that our clients received the most effective and professional services. 
 Our scope of work can be broken down into the following categories:
                             </p>
@@ -61,7 +61,7 @@ Our scope of work can be broken down into the following categories:
                                 </div>
                                 <div id="collapseOne" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingOne">
                                     <div class="panel-body">
-                                        <p>At <strong>F.sprinters</strong>, we take the Health & Safety of our employees, client and other associates very seriously. Our Health & Safety Policy is clearly articulated and enshrined in our employee induction documents to acquaint employee with the essence of the policy and the need to put safety first on the job. At <strong>F.sprinters</strong>, we say <i>“no job is too urgent to be done without recourse to safety”.</i> </p>
+                                        <p>At <strong>F.sprinters</strong>, we take the Health & Safety of our employees, client and other associates very seriously.Our Health & Safety Policy is clearly articulated and enshrined in our employee induction documents to acquaint employee with the essence of the policy and the need to put safety first on the job.At <strong>F.sprinters</strong>, we say <i>“no job is too urgent to be done without recourse to safety”.</i> </p>
                                     </div>
                                 </div>
                             </div>
@@ -76,7 +76,7 @@ Our scope of work can be broken down into the following categories:
                                 </div>
                                 <div id="collapseTwo" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingTwo">
                                     <div class="panel-body">
-                                        <p>Our quality policy is aimed at ensuring the highest level of quality in all areas of our business. We are committed Total Quality Management and also run our business in compliant with the requirements of ISO 9001 - 2008; thereby ensuring that we document our business practices and practice what has been documented; we also review our business processes from time to time to ensure continuous improvement.</p>
+                                        <p>Our quality policy is aimed at ensuring the highest level of quality in all areas of our business.We are committed Total Quality Management and also run our business in compliant with the requirements of ISO 9001 - 2008; thereby ensuring that we document our business practices and practice what has been documented; we also review our business processes from time to time to ensure continuous improvement.</p>
                                     </div>
                                 </div>
                             </div>
@@ -91,15 +91,15 @@ Our scope of work can be broken down into the following categories:
                     <div class="whychoose-us-content">
                         <div class="single-chose">
                             <h4><span class="fa fa-check"></span>EXPERIENCE & EXPERTISE</h4>
-                            <p>At<strong> F.sprinters</strong> technologies we belive that quality must be measureable,it must be represented in the materials and workmanship.We appreciate that you have put time,thoughts,efforts and passion into this project as well as the commitment and dedication to finance it.Combining this with our drive for excellence,<strong>F.sprinters</strong> is proud of implementing standards of the highest quality.</p>
+                            <p>At<strong> F.sprinters</strong> technologies we belive that quality must be measureable, it must be represented in the materials and workmanship.We appreciate that you have put time, thoughts, efforts and passion into this project as well as the commitment and dedication to finance it.Combining this with our drive for excellence,<strong> F.sprinters</strong> is proud of implementing standards of the highest quality.</p>
                         </div>
                         <div class="single-chose">
                             <h4><span class="fa fa-check"></span>ON TIME.ON BUDGET.GUARANTEED.</h4>
-                            <p>Yes,you read that right.Our promise is that we will complete your project on time and on budget which is backed by our guarantee.Not only do we apply our attention to details,but to all project managment as well.We are an enthusaistic company with friendly staffs focused on delevering what you,the customer wants and pride ourselves in providing you the best quality customer service.</p>
+                            <p>Yes, you read that right.Our promise is that we will complete your project on time and on budget which is backed by our guarantee.Not only do we apply our attention to details, but to all project managment as well.We are an enthusaistic company with friendly staffs focused on delevering what you,the customer wants and pride ourselves in providing you the best quality customer service.</p>
                         </div>
                         <div class="single-chose">
                             <h4><span class="fa fa-check"></span>FREE CONSULTATION</h4>
-                            <p>If you would like to book a free consultation with us,where we can provide personalised advice for your project,simply leave us a mail @<a href="http://www.googlemail.com/sprinterstechnologies@gmail.com"> sprinterstechnologies@gmail.com</a> or <a href="contact.php">contact us</a></p>
+                            <p>If you would like to book a free consultation with us, where we can provide personalised advice for your project,simply leave us a mail @<a href="http://www.googlemail.com/sprinterstechnologies@gmail.com"> sprinterstechnologies@gmail.com</a> or <a href="contact.php">contact us</a></p>
                         </div>
                     </div>
                 </div>
@@ -136,7 +136,7 @@ Our scope of work can be broken down into the following categories:
                         <p style="text-transform:uppercase; color: #e67817;" ><strong>Chief Consultant</strong></p>
                         <p> 
                          
-Olutayo is responsible for the consultancy operations of the organization. He formulate IT strategies and design IT road maps, he is also in charge of all IT project management functions. He has a degree in Electronic and Electrical Engineering and an MBA in Information Technology Management.
+Olutayo is responsible for the consultancy operations of the organization. He formulates IT strategies and design IT road maps, he is also in charge of all IT project management functions. He has a degree in Electronic and Electrical Engineering and an MBA in Information Technology Management.
 Olutayo has various training from Netherland, South Africa and within Nigeria as HP Accredited System Engineer, MCSE, CCNA, MPC, IBM Xseries Technician.</p>
                     </div>
                 </div>
@@ -161,9 +161,9 @@ Fatima provides the strategic direction for F.Sprinters Technologies, basing her
                         </div><br>
                         <h3>EMMANUEL OKOH</h3><br>
                        <p  style="text-transform:uppercase;color: #e67817;" > <strong>Chief Engineer</strong></p>
-                        <p>Emmanuel is a versatile Engineer and an adminstrator whose experience cuts across almost all aspects of Information Communication Technology.He has over 10 years working experiences with the telecom sector as an ennviroment.Some of his areas of core competence are-plan and troubleshoot WAN and wireless VSAT ,switches, communication equipment,hardware and software installation,support,planing and network maintanace.Emmanuel is a graduate Electrical/Electronics Engineering and Computer Science.<br> 
+                        <p>Emmanuel is a versatile Engineer and an adminstrator whose experience cuts across almost all aspects of Information Communication Technology.He has over 10 years working experiences with the telecom sector.Some of his areas of core competence are: plan and troubleshoot WAN and wireless VSAT, switches, communication equipment, hardware and software installation, support, planing and network maintanace.Emmanuel is a graduate of Electrical/Electronics Engineering and Computer Science.<br> 
                                    <strong style="color: #e67817;">TRAINING/AWARD</strong> <br>
-Training course in the installation ,maintenance and operation of provision network by Harris Stratex Melbourne ,Florida, USA <br>
+Training course in the installation, maintenance and operation of provision network by Harris Stratex Melbourne, Florida, USA <br>
 Certificate of excellence for an outstanding performance in sustaining network 	availability KPI of above 99% by Airtel Nigeria Ltd.
 </p>
                     </div>
@@ -178,9 +178,9 @@ Certificate of excellence for an outstanding performance in sustaining network 	
                         </div><br>
                         <h3>HANATU ANNIE OKOH</h3><br>
                         <p style="text-transform:uppercase;color: #e67817;" ><strong >Head Administrator</strong></p>
-                        <p>Hanatu is responsible for the administrative and operational running of the organization. She ensures smooth and profitable running of the company at various corporate meetings. She is also involved in policy formulation, business development, strategic planning and general management of business activities.<br>
+                        <p>Hanatu is responsible for the administrative and operational running of the organization.She ensures smooth and profitable running of the company at various corporate meetings.She is also involved in policy formulation, business development, strategic planning and general management of business activities.<br>
                         <strong style="color: #e67817;">TRAINING/AWARD</strong> <br>
-Degree in Economics and a member of CIFIAN, Certificate in Networking, Certificate on Website Design. 
+Degree in Economics and a member of CIFIAN, Certificate in Networking, Certificate in Website Design. 
 </p>
                     </div>
                 </div>
@@ -195,8 +195,8 @@ Degree in Economics and a member of CIFIAN, Certificate in Networking, Certifica
                         </div><br>
                         <h3>ROYINI UWANZE</h3><br>
                         <p style="text-transform:uppercase;color: #e67817;" ><strong>Field Operations Director</strong></p>
-                        <p>Rohini is involved with formulating IT strategies and designs. A very resourceful Network Technician with years of experience in the ICT industry, she has several Training in Europe and India
-She has been instrumental in establishing strategic worldwide with the help of core professional team members.
+                        <p>Rohini is involved with formulating IT strategies and designs.A very resourceful Network Technician with years of experience in the ICT industry, she has undergone several training in Europe and India.
+She has been instrumental in establishing strategies worldwide with the help of core professional team members.
 </p>
                     </div>
                 </div>
@@ -209,9 +209,9 @@ She has been instrumental in establishing strategic worldwide with the help of c
                                 <a href="#" class="fa fa-link"></a>
                             </div>
                         </div><br>
-                        <h3>ANAYO UWANZE</h3><br>
+                        <h3>ANAYO  DONATUS UWANZE</h3><br>
                         <p style="text-transform:uppercase;color: #e67817;" ><strong >Growth and Development Officer</strong></p>
-                        <p>Donatus spearheads the business development, research and operations at F.sprinters. He formalise sales and marketing. He is an action oriented pragmatic leader who maintains good relationship. He brings more than 10 years experiences into F.sprinters Technologies. </p>
+                        <p>Donatus spearheads the business development, research and operations at F.sprinters.He formalise sales and marketing.He is an action oriented and pragmatic leader who maintains good relationship.He brings more than 10 years of experiences into F.sprinters Technologies. </p>
                     </div>
                 </div>
             </div>
